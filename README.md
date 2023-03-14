@@ -44,6 +44,7 @@ Este projeto é um gerador de cores RGB simples,usando a função math.floor do 
 
 ## Demonstração
 ![Captura de Tela (86)](https://user-images.githubusercontent.com/78994881/225069396-43041c17-a6ea-4ba6-8316-ea2e224240d5.png)
+![Captura de Tela (87)](https://user-images.githubusercontent.com/78994881/225070794-eb8263f5-6fca-4988-8f29-583954cb010f.png)
 
 
  
